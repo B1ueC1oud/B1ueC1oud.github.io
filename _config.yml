@@ -5,8 +5,8 @@ podcast-description: "A Jekyll Theme designed for Podcasters. This is your podca
 url:  "https://jekyll-podcaster.netlify.app/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
+  name: "Taehoon Kimilly"
+  email: "th951113@gmail.com"
   url: "https://alessiofranceschi.me"
 permalink: pretty
 permalink: /:title
@@ -43,7 +43,7 @@ lang: it
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
 podcast_title: BlueCloud's Lab
-podcast_author: Taehoon Kimmiliy
+podcast_author: Taehoon Kimmilly
 podcast_email: th951113@gmail.com
 podcast_subtitle: "A Jekyll Theme designed for Podcasters"
 podcast_summary: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
