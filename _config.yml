@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Podcaster"
+title: "BlueCloud's Lab"
 description: "A Jekyll Theme designed for Podcasters"
 podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
 url:  "https://jekyll-podcaster.netlify.app/" # Actual base url of the website
@@ -42,9 +42,9 @@ social:
 lang: it
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
-podcast_title: Jekyll Podcaster
-podcast_author: Alessio Franceschi
-podcast_email: alessiofranceschi2@gmail.com
+podcast_title: BlueCloud's Lab
+podcast_author: Taehoon Kimmiliy
+podcast_email: th951113@gmail.com
 podcast_subtitle: "A Jekyll Theme designed for Podcasters"
 podcast_summary: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
 podcast_description: "A Jekyll Theme designed for Podcasters. This is your podcast's description."
