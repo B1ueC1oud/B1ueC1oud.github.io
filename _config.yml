@@ -32,7 +32,7 @@ twitter:
   card: summary
 facebook:
   app_id: 
-logo: /assets/img/Podcast_Cover_small.png
+logo: /assets/img/Podcast_Cover_Small.png
 social:
   name: Taehoon Kim
   links:
@@ -54,4 +54,4 @@ podcast_lang: en
 podcast_launch: "2022-05-09" #Launch date of your podcast
 podcast_copyright: "&#xA9;Alessio Franceschi"
 podcast_feed: 
-podcast_artwork: "/assets/img/Podcast_Cover_small.png"
+podcast_artwork: "/assets/img/Podcast_Cover_Small.png"
