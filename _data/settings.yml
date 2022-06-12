@@ -1,10 +1,18 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'Papers', link: 'episodes.html'}
-  - {name: 'Conference', link: '#'}
-  - {name: 'Coding', link: '#'}
-  - {name: 'Projects', link: 'https://github.com/B1ueC1oud'}
+  #- {name: 'Papers', link: 'episodes.html'}
+  - name: 'Papers'
+    href: '/Papers/'
+  - name: 'Conference'
+    href: '/Conference/'
+  - name: 'Packages'
+    href: '/Packages/'
+  #- {name: 'Conference', link: '#'}
+  #- {name: 'Coding', link: '#'}
+  #- {name: 'Inv Projects', link: 'https://github.com/B1ueC1oud'}
+  - name: 'Inv Projects'
+    href: '/Inv_Projects/'
   - {name: 'Github', link: 'https://github.com/B1ueC1oud'}
 
 social:
