@@ -28,8 +28,8 @@ sass:
 
 #SEO
 twitter:
-  username: PandaSekh
-  card: summary
+  username:
+  card: 
 facebook:
   app_id: 
 logo: /assets/img/Podcast_Cover_Small.png
