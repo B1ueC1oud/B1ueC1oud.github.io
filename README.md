@@ -99,7 +99,7 @@ Modifying file in the `_includes` folder can break things, so please be careful.
 - `shownotes.html` to change your shownotes.
 
 Everything else is modified automatically when you cnage your `settings.yml` and `config.yml` files.
-
+ 
 ### Colors
 You can change colors in the `_sass/base.scss` and `_sass/sidebar.scss` files. 
 Changing the "wave" colors is a bit harder. You need to decode the svg in the `_scss/background.scss` file, the one in the `background-image` tag. To do that, please refer [to this website](https://mothereff.in/url). Once decoded, change the `path fill` attribute, then encode again and use it.    
